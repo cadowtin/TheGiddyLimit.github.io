@@ -3831,7 +3831,11 @@
 			],
 			"toolProficiencies": [
 				{
-					"artisan's tools": true
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  }
 				}
 			],
 			"startingEquipment": [
@@ -4186,7 +4190,11 @@
 			],
 			"toolProficiencies": [
 				{
-					"artisan's tools": true
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  }
 				}
 			],
 			"startingEquipment": [
@@ -5348,7 +5356,11 @@
 					"vehicles (water)": true
 				},
 				{
-					"artisan's tools": true
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  }
 				},
 				{
 					"choose": {
@@ -6552,7 +6564,11 @@
 			],
 			"toolProficiencies": [
 				{
-					"artisan's tools": true
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  }
 				}
 			],
 			"startingEquipment": [
@@ -7428,7 +7444,11 @@
 			],
 			"toolProficiencies": [
 				{
-					"artisan's tools": true,
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  },
 					"vehicles (land)": true
 				}
 			],
@@ -9353,7 +9373,11 @@
 			],
 			"toolProficiencies": [
 				{
-					"artisan's tools": true
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  }
 				}
 			],
 			"startingEquipment": [
@@ -11708,7 +11732,11 @@
 			"toolProficiencies": [
 				{
 					"thieves' tools": true,
-					"artisan's tools": true
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  }
 				}
 			],
 			"startingEquipment": [
@@ -12743,7 +12771,11 @@
 			],
 			"toolProficiencies": [
 				{
-					"artisan's tools": true
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  }
 				}
 			],
 			"startingEquipment": [
@@ -13455,7 +13487,11 @@
 			],
 			"toolProficiencies": [
 				{
-					"artisan's tools": true,
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  },
 					"musical instrument": true
 				}
 			],
@@ -14716,7 +14752,11 @@
 			],
 			"toolProficiencies": [
 				{
-					"artisan's tools": true,
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  },
 					"vehicles (land)": true
 				}
 			],
@@ -14976,7 +15016,11 @@
 			],
 			"toolProficiencies": [
 				{
-					"artisan's tools": true
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  }
 				}
 			],
 			"startingEquipment": [
@@ -15220,7 +15264,11 @@
 			],
 			"toolProficiencies": [
 				{
-					"artisan's tools": true
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  }
 				}
 			],
 			"startingEquipment": [
@@ -15948,7 +15996,11 @@
 			],
 			"toolProficiencies": [
 				{
-					"artisan's tools": true
+					"choose": {
+      "from": [
+          "anyArtisansTool"
+      ]
+  }
 				}
 			],
 			"startingEquipment": [
@@ -20407,7 +20459,11 @@
 			],
 			"toolProficiencies": [
 				{
-					"artisan's tools": true,
+					"choose": {
+                    "from": [
+                        "anyArtisansTool"
+                    ]
+                },
 					"musical instrument": true
 				}
 			],
